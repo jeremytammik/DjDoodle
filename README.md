@@ -1,4 +1,4 @@
-DjDoodle2
-=========
+DjDoodle
+========
 
 Barfussdisco Basel DJ Calendar
