@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jeremytammik/DjDoodle/issues"
   },
-  "homepage": "https://github.com/jeremytammik/DjDoodle"
+  "homepage": "https://github.com/jeremytammik/DjDoodle",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-connect": "^0.7.1"
+  }
 }
