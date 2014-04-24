@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "homepage": "https://github.com/jeremytammik/DjDoodle",
   "authors": [
-    "ollin <oliver.nautsch@gmail.com>"
+    "many"
   ],
-  "license": "MIT",
+  "license": "Apache-2.0",
   "ignore": [
     "**/.*",
     "node_modules",
