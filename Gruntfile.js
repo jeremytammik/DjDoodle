@@ -13,4 +13,6 @@ module.exports = function(grunt) {
       }
     }
   });
+
+  grunt.registerTask("run", "Starts a http web server", ["connect:server"]);
 }
