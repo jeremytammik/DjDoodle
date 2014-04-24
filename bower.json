@@ -1,0 +1,19 @@
+{
+  "name": "DjDoodle",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jeremytammik/DjDoodle",
+  "authors": [
+    "ollin <oliver.nautsch@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pouchdb": "~2.1.2"
+  }
+}
